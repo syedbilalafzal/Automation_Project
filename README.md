@@ -25,3 +25,5 @@ Task 3 has below objectives.
 1. It would be helpful to know that the script created on task 2 is run automatically rather than a manual action. So we need to modify the script that sets cron-file that runs daily. 
 2. Also we need to append log whenever the script is run to the inventory.html file. The file is hosted on webserver, so by accessing the webserver the status of script would be known.  
 
+
+##### Author Name: Syed Bilal Afzal Ashraf
